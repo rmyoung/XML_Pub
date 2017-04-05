@@ -53,7 +53,7 @@ print abstractText_and_PMIDs
 # Now, save this in SQLite3 file so you can visualize it.
 
 import sqlite3
-conn = sqlite3.connect('Pub.db') # Create a connection to the database
+conn = sqlite3.connect('Pub_Exercise.db') # Create a connection to the database
 
 cur = conn.cursor() # Get a cursor on the database. Allows using SQL
 

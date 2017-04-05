@@ -4,6 +4,8 @@
 
 If necessary, you can comment parts of the codes and uncomment them as you go.
 
+* Pub.db is the result you should get at the end. You can compare your output with this database.
+
 The purpose of this is following:
 
 1. Get familiarized handling XML data. XML is similar to JSON in that it is "semi-structured".
