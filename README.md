@@ -1,6 +1,6 @@
 # XML to SQL 
 
-##Be sure to git clone this repository into your computer prior to executing the codes.
+## Be sure to git clone this repository into your computer prior to executing the codes.
 
 If necessary, you can comment parts of the codes and uncomment them as you go.
 
