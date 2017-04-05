@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet SYSTEM "http://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_170101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">30989</PMID>
+      <DateCreated>
+        <Year>1979</Year>
+        <Month>01</Month>
+        <Day>24</Day>
+      </DateCreated>
+      <DateCompleted>
+        <Year>1979</Year>
+        <Month>01</Month>
+        <Day>24</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2013</Year>
+        <Month>11</Month>
+        <Day>21</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">0036-5513</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>38</Volume>
+            <Issue>7</Issue>
+            <PubDate>
+              <Year>1978</Year>
+              <Month>Nov</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Scandinavian journal of clinical and laboratory investigation</Title>
+          <ISOAbbreviation>Scand. J. Clin. Lab. Invest.</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>An analysis of measured and calculated calcium quantities in serum.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>659-67</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Potentiometrically measured ionized calcium (Ca2+) was compared with total and albumin corrected S-Calcium and calculated Ca2+ in serum samples from blood donors and patients, for whom a request of S-Calcium has been made. Total S-Calcium, Ca2+ and S-Albumin in donors conformed with a simple mass law equation with a mean KCaAlb = 95 l/mol, whereas apparent albumin binding affinity rose with decreasing S-Albumin in patients (due to rise of other calcium binding proteins) with resulting overestimation of albumin corrected and particularly of calculated Ca2+. The frequency and severity of hypoalbuminaemia in patients make calculated Ca2+ unreliable and albumin corrected S-Calcium the clinically most satisfactory routinely practicable substitute for direct Ca2+ measurement.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Pedersen</LastName>
+            <ForeName>K O</ForeName>
+            <Initials>KO</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Scand J Clin Lab Invest</MedlineTA>
+        <NlmUniqueID>0404375</NlmUniqueID>
+        <ISSNLinking>0036-5513</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D007477">Ions</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D012709">Serum Albumin</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>SY7Q814VUP</RegistryNumber>
+          <NameOfSubstance UI="D002118">Calcium</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000293" MajorTopicYN="N">Adolescent</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000367" MajorTopicYN="N">Age Factors</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000704" MajorTopicYN="N">Analysis of Variance</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002118" MajorTopicYN="N">Calcium</DescriptorName>
+          <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006863" MajorTopicYN="N">Hydrogen-Ion Concentration</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007477" MajorTopicYN="N">Ions</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008722" MajorTopicYN="N">Methods</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011485" MajorTopicYN="N">Protein Binding</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012044" MajorTopicYN="N">Regression Analysis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012709" MajorTopicYN="N">Serum Albumin</DescriptorName>
+          <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012737" MajorTopicYN="N">Sex Factors</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>1978</Year>
+          <Month>11</Month>
+          <Day>1</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>1978</Year>
+          <Month>11</Month>
+          <Day>1</Day>
+          <Hour>0</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>1978</Year>
+          <Month>11</Month>
+          <Day>1</Day>
+          <Hour>0</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">30989</ArticleId>
+        <ArticleId IdType="doi">10.3109/00365517809102433</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  </PubmedArticleSet>
