@@ -158,4 +158,393 @@
       </ArticleIdList>
     </PubmedData>
   </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">53315</PMID>
+      <DateCreated>
+        <Year>1976</Year>
+        <Month>02</Month>
+        <Day>20</Day>
+      </DateCreated>
+      <DateCompleted>
+        <Year>1976</Year>
+        <Month>02</Month>
+        <Day>20</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2013</Year>
+        <Month>11</Month>
+        <Day>21</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">0022-9040</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>15</Volume>
+            <Issue>8</Issue>
+            <PubDate>
+              <Year>1975</Year>
+              <Month>Aug</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Kardiologiia</Title>
+          <ISOAbbreviation>Kardiologiia</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>[Certain pathogenetic mechanisms of development of atherosclerosis in dogs, induced without the use of cholesterol].</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>120-4</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Chronic investigations (up to 3 years) conducted in dogs have evidenced that periodic disturbances of vascular permeability produced by using dicoumarin with a long-term blocking of the thyroid function greatly aggravate pathological manifestations induced by the action of 6-methylthiouracil. They result in the development in the animals of endogenous hypercholesterinemia, elevated content in the blood of beta-lipoproteins and in a periodic rise of the arterial pressure. These changes were particularly spectacular at the final stage of the experiment in animals with marked manifestations of atherosclerosis and were accompanied by reduced stand-by potentialities of the adrenal gland, disruption of metabolic processes in the myocardium along with the slowed down resorption of NaI131 from the heart muscle. The sensitivity of the heart to adrenalin was down too.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Sukhanov</LastName>
+            <ForeName>A A</ForeName>
+            <Initials>AA</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Babkina</LastName>
+            <ForeName>N G</ForeName>
+            <Initials>NG</Initials>
+          </Author>
+        </AuthorList>
+        <Language>rus</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D004740">English Abstract</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <VernacularTitle>O nekotorykh patogeneticheskikh mekhanizmakh razvitiia ateroskleroza u sabak pri ego vosproizvedenii bez primeneniia kholesterina</VernacularTitle>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Russia (Federation)</Country>
+        <MedlineTA>Kardiologiia</MedlineTA>
+        <NlmUniqueID>0376351</NlmUniqueID>
+        <ISSNLinking>0022-9040</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D015065">17-Hydroxycorticosteroids</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D008055">Lipids</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>7QID3E7BG7</RegistryNumber>
+          <NameOfSubstance UI="D001728">Dicumarol</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>QW24888U5F</RegistryNumber>
+          <NameOfSubstance UI="D008779">Methylthiouracil</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D015065" MajorTopicYN="N">17-Hydroxycorticosteroids</DescriptorName>
+          <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000302" MajorTopicYN="N">Adrenal Cortex</DescriptorName>
+          <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001161" MajorTopicYN="N">Arteriosclerosis</DescriptorName>
+          <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+          <QualifierName UI="Q000209" MajorTopicYN="Y">etiology</QualifierName>
+          <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002199" MajorTopicYN="N">Capillary Permeability</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001728" MajorTopicYN="N">Dicumarol</DescriptorName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004195" MajorTopicYN="Y">Disease Models, Animal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004285" MajorTopicYN="Y">Dogs</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008055" MajorTopicYN="N">Lipids</DescriptorName>
+          <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008779" MajorTopicYN="N">Methylthiouracil</DescriptorName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>1975</Year>
+          <Month>8</Month>
+          <Day>1</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>1975</Year>
+          <Month>8</Month>
+          <Day>1</Day>
+          <Hour>0</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>1975</Year>
+          <Month>8</Month>
+          <Day>1</Day>
+          <Hour>0</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">53315</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">53318</PMID>
+      <DateCreated>
+        <Year>1976</Year>
+        <Month>02</Month>
+        <Day>13</Day>
+      </DateCreated>
+      <DateCompleted>
+        <Year>1976</Year>
+        <Month>02</Month>
+        <Day>13</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2006</Year>
+        <Month>11</Month>
+        <Day>15</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">0023-2173</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>53</Volume>
+            <Issue>12</Issue>
+            <PubDate>
+              <Year>1975</Year>
+              <Month>Jun</Month>
+              <Day>15</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Klinische Wochenschrift</Title>
+          <ISOAbbreviation>Klin. Wochenschr.</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>[Antigens of the human placenta (author's transl)].</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>547-54</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>The immunologic relations between mother, foetus and placenta are discussed and those antigens of the human placenta already characterized by their physico-chemical and immunochemical properties described. In diagnostics the detection and determination of placental proteins is used in pregnancy tests, for the evaluation of placental functions and the detection of malignant diseases. Antibodies to placental antigens have an abortive effect; immunization against placental specific proteins may have implications as an immunologic contraceptive method and for the immunotherapy of choriocarcinoma.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Bohn</LastName>
+            <ForeName>H</ForeName>
+            <Initials>H</Initials>
+          </Author>
+        </AuthorList>
+        <Language>ger</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D004740">English Abstract</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+        <VernacularTitle>Die Antigene der menschlichen Placenta</VernacularTitle>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>Klin Wochenschr</MedlineTA>
+        <NlmUniqueID>2985205R</NlmUniqueID>
+        <ISSNLinking>0023-2173</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000906">Antibodies</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000941">Antigens</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000951">Antigens, Neoplasm</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D001609">Beta-Globulins</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D006063">Chorionic Gonadotropin</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D006023">Glycoproteins</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D010926">Placental Hormones</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>9035-54-5</RegistryNumber>
+          <NameOfSubstance UI="D010928">Placental Lactogen</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 1.1.-</RegistryNumber>
+          <NameOfSubstance UI="D006913">Hydroxysteroid Dehydrogenases</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.3.2.2</RegistryNumber>
+          <NameOfSubstance UI="D005723">gamma-Glutamyltransferase</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 3.1.3.1</RegistryNumber>
+          <NameOfSubstance UI="D000469">Alkaline Phosphatase</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 3.4.11.3</RegistryNumber>
+          <NameOfSubstance UI="D010122">Cystinyl Aminopeptidase</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <CitationSubset>J</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000022" MajorTopicYN="N">Abortion, Spontaneous</DescriptorName>
+          <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000469" MajorTopicYN="N">Alkaline Phosphatase</DescriptorName>
+          <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000906" MajorTopicYN="N">Antibodies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000941" MajorTopicYN="N">Antigens</DescriptorName>
+          <QualifierName UI="Q000032" MajorTopicYN="Y">analysis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000951" MajorTopicYN="N">Antigens, Neoplasm</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001609" MajorTopicYN="N">Beta-Globulins</DescriptorName>
+          <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002822" MajorTopicYN="N">Choriocarcinoma</DescriptorName>
+          <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006063" MajorTopicYN="N">Chorionic Gonadotropin</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010122" MajorTopicYN="N">Cystinyl Aminopeptidase</DescriptorName>
+          <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006023" MajorTopicYN="N">Glycoproteins</DescriptorName>
+          <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006913" MajorTopicYN="N">Hydroxysteroid Dehydrogenases</DescriptorName>
+          <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008431" MajorTopicYN="N">Maternal-Fetal Exchange</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010920" MajorTopicYN="N">Placenta</DescriptorName>
+          <QualifierName UI="Q000201" MajorTopicYN="N">enzymology</QualifierName>
+          <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010926" MajorTopicYN="N">Placental Hormones</DescriptorName>
+          <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010928" MajorTopicYN="N">Placental Lactogen</DescriptorName>
+          <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011247" MajorTopicYN="N">Pregnancy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014327" MajorTopicYN="N">Trophoblasts</DescriptorName>
+          <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005723" MajorTopicYN="N">gamma-Glutamyltransferase</DescriptorName>
+          <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <NumberOfReferences>58</NumberOfReferences>
+      <OtherID Source="PIP">750738</OtherID>
+      <OtherID Source="POP">00015726</OtherID>
+      <OtherAbstract Type="PIP" Language="eng">
+        <AbstractText>The immunologic relationships of mother, fetus and placenta are discussed, and the human placental antigens already characterized by their physico-chemical and immunological properties are described.  The detection and determination of placental proteins is used in pregnancy tests, for the evaluation of placental function, and in the diagnosis of malignant disease.  Antibodies to placental antigens have an abortive effect; immunization against placental specific proteins may have implications as an immunologic contraceptive method and for the immunotherapy of choriocarcinoma.</AbstractText>
+      </OtherAbstract>
+      <KeywordList Owner="PIP">
+        <Keyword MajorTopicYN="N">Embryo</Keyword>
+        <Keyword MajorTopicYN="N">Examinations And Diagnoses</Keyword>
+        <Keyword MajorTopicYN="Y">Fetal Membranes</Keyword>
+        <Keyword MajorTopicYN="N">Fetus</Keyword>
+        <Keyword MajorTopicYN="N">Laboratory Examinations And Diagnoses</Keyword>
+        <Keyword MajorTopicYN="N">Laboratory Procedures</Keyword>
+        <Keyword MajorTopicYN="N">Pregnancy</Keyword>
+        <Keyword MajorTopicYN="N">Pregnancy Tests</Keyword>
+        <Keyword MajorTopicYN="Y">Pregnancy Tests, Immunologic</Keyword>
+        <Keyword MajorTopicYN="N">Reproduction</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>1975</Year>
+          <Month>6</Month>
+          <Day>15</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>1975</Year>
+          <Month>6</Month>
+          <Day>15</Day>
+          <Hour>0</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>1975</Year>
+          <Month>6</Month>
+          <Day>15</Day>
+          <Hour>0</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">53318</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
   </PubmedArticleSet>
