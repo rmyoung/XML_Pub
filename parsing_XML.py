@@ -1,9 +1,11 @@
 import xml.etree.ElementTree as ET
+import re
 tree = ET.parse('Sample1.xml')
 root = tree.getroot()
 
 # Initial examination with XML file (topmost layer)
 
+'''
 print root # PubmedArticleSet
 print root[0] #PubmedArticle
 
@@ -30,7 +32,7 @@ for node in tree.iter():
 for node in tree.iter():
 	if node.tag == 'AbstractText':
 		print node.text
-
+'''
 # Save it to the memory
 
 abstractTexts = []
@@ -43,12 +45,65 @@ for node in tree.iter():
 	if node.tag == 'PMID':
 		abstractPMID.append(node.text)
 
-print abstractTexts
-print abstractPMID
+#print abstractTexts
+#print abstractPMID
 
 abstractText_and_PMIDs = zip(abstractPMID,abstractTexts)
 
-print abstractText_and_PMIDs
+PMIDs, abstractText = zip(*abstractText_and_PMIDs)
+
+#print abstractText_and_PMIDs
+
+splitaT = []
+
+for j in abstractText:
+	#splitaT.append(j.split(" "))
+	#splitaT.append(re.sub(r'[^a-zA-Z ]', '', j).split())
+	splitaT.append(re.sub(r'[().,]', '', j).split())
+	
+#print splitaT[1]
+#print len(splitaT)
+
+from collections import Counter
+
+#termlist = [] 
+#freqlist = []
+
+termandfreq = []
+termandfreqtemp = []
+
+for k, l in enumerate(splitaT):
+	uniques = sorted(set(splitaT[k])) #sorts alphabetically + removes repeats
+	for term in uniques:
+		#print splitaT[k].count(term), term
+		#freqlist[k].append(splitaT[k].count(term))
+		#termlist[k].append(term)
+		val = (term, splitaT[k].count(term))
+		termandfreqtemp.append(val)
+	#termlist.append(Counter(splitaT[k]).most_common(10))
+	termandfreq.append(sorted(termandfreqtemp, key=lambda x: x[1], reverse=True))
+	termandfreqtemp = []
+
+import matplotlib.pyplot as plt; plt.rcdefaults()
+import numpy as np
+import matplotlib.pyplot as plt
+ 
+#tenterm = []
+#tenfreq = []
+
+for m, n in enumerate(termandfreq):
+	tenterm, tenfreq = zip(*termandfreq[m])
+	tenterm = tenterm[:9]
+	tenfreq = tenfreq[:9]
+	y_pos = np.arange(len(tenterm))
+
+	plt.bar(y_pos, tenfreq, align='center', alpha=0.7)
+	plt.xticks(y_pos, tenterm, rotation = 'vertical')
+	plt.subplots_adjust(bottom=.28)
+	plt.xlabel('Most Frequent Terms')
+	plt.ylabel('Frequency')
+	plt.title('PMID: '+ PMIDs[m]+' Abstract Term Frequencies')
+	plt.show()
 
 # Now, save this in SQLite3 file so you can visualize it.
 
